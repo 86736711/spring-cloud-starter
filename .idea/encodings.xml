@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-framework" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-druid" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-log" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-monitor-cat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-mq" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-mybatis-plus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-pkgeneration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-redisson" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-swagger" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-starter-zookeeper" charset="UTF-8" />
+  </component>
+</project>

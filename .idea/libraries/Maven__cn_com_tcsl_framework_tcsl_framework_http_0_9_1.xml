@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.com.tcsl.framework:tcsl-framework-http:0.9.1">
+    <CLASSES>
+      <root url="jar://D:/RESOURCE/MAVEN_REPOSITORY_LSY/cn/com/tcsl/framework/tcsl-framework-http/0.9.1/tcsl-framework-http-0.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/RESOURCE/MAVEN_REPOSITORY_LSY/cn/com/tcsl/framework/tcsl-framework-http/0.9.1/tcsl-framework-http-0.9.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/RESOURCE/MAVEN_REPOSITORY_LSY/cn/com/tcsl/framework/tcsl-framework-http/0.9.1/tcsl-framework-http-0.9.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

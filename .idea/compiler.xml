@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-framework" />
+        <module name="spring-cloud-starter-boot" />
+        <module name="spring-cloud-starter-druid" />
+        <module name="spring-cloud-starter-feign" />
+        <module name="spring-cloud-starter-log" />
+        <module name="spring-cloud-starter-monitor-cat" />
+        <module name="spring-cloud-starter-mq" />
+        <module name="spring-cloud-starter-mybatis" />
+        <module name="spring-cloud-starter-mybatis-plus" />
+        <module name="spring-cloud-starter-pkgeneration" />
+        <module name="spring-cloud-starter-redisson" />
+        <module name="spring-cloud-starter-swagger" />
+        <module name="spring-cloud-starter-zookeeper" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="spring-cloud-framework" target="1.8" />
+      <module name="spring-cloud-starter" target="1.8" />
+      <module name="spring-cloud-starter-boot" target="1.8" />
+      <module name="spring-cloud-starter-druid" target="1.8" />
+      <module name="spring-cloud-starter-feign" target="1.8" />
+      <module name="spring-cloud-starter-log" target="1.8" />
+      <module name="spring-cloud-starter-monitor-cat" target="1.8" />
+      <module name="spring-cloud-starter-mq" target="1.8" />
+      <module name="spring-cloud-starter-mybatis" target="1.8" />
+      <module name="spring-cloud-starter-mybatis-plus" target="1.8" />
+      <module name="spring-cloud-starter-pkgeneration" target="1.8" />
+      <module name="spring-cloud-starter-redisson" target="1.8" />
+      <module name="spring-cloud-starter-swagger" target="1.8" />
+      <module name="spring-cloud-starter-zookeeper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

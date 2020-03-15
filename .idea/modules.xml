@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-framework/spring-cloud-framework.iml" filepath="$PROJECT_DIR$/spring-cloud-framework/spring-cloud-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter.iml" filepath="$PROJECT_DIR$/spring-cloud-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-boot/spring-cloud-starter-boot.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-boot/spring-cloud-starter-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-druid/spring-cloud-starter-druid.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-druid/spring-cloud-starter-druid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-feign/spring-cloud-starter-feign.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-feign/spring-cloud-starter-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-log/spring-cloud-starter-log.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-log/spring-cloud-starter-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-monitor-cat/spring-cloud-starter-monitor-cat.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-monitor-cat/spring-cloud-starter-monitor-cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-mq/spring-cloud-starter-mq.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-mq/spring-cloud-starter-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-mybatis/spring-cloud-starter-mybatis.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-mybatis/spring-cloud-starter-mybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-mybatis-plus/spring-cloud-starter-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-mybatis-plus/spring-cloud-starter-mybatis-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-pkgeneration/spring-cloud-starter-pkgeneration.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-pkgeneration/spring-cloud-starter-pkgeneration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-redisson/spring-cloud-starter-redisson.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-redisson/spring-cloud-starter-redisson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-swagger/spring-cloud-starter-swagger.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-swagger/spring-cloud-starter-swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter-zookeeper/spring-cloud-starter-zookeeper.iml" filepath="$PROJECT_DIR$/spring-cloud-starter-zookeeper/spring-cloud-starter-zookeeper.iml" />
+    </modules>
+  </component>
+</project>
