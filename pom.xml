@@ -42,7 +42,7 @@
         <spring.cloud.version>Edgware.SR4</spring.cloud.version>
         <fastjson.version>1.2.31</fastjson.version>
         <commons.lang3.version>3.6</commons.lang3.version>
-        <commons.collections.version>3.2.1</commons.collections.version>
+        <commons.collections.version>3.2.2</commons.collections.version>
         <tcsl.framework.http>0.9.1</tcsl.framework.http>
         <slyun.monitor.cat>default</slyun.monitor.cat>
         <lombok.version>1.16.14</lombok.version>
